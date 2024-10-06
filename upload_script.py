@@ -2,16 +2,6 @@ import csv
 import mysql.connector
 import os
 
-def truncate_table(cursor, table_name):
-  try:
-    cursor.execute(f"SET FOREIGN_KEY_CHECKS = 0")
-    cursor.execute(f"TRUNCATE TABLE {table_name}")
-    cursor.execute(f"SET FOREIGN_KEY_CHECKS = 1")
-    print(f"Table {table_name} truncated successfully.")
-  except mysql.connector.Error as err:
-    print(f"Error truncating table {table_name}: {err}")
-
-
 def upload_csv_to_table(file_path, table_name):
   conn = mysql.connector.connect(
     host=os.getenv('MYSQL_HOST'),
@@ -25,9 +15,6 @@ def upload_csv_to_table(file_path, table_name):
   with open(file_path, newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     columns = reader.fieldnames
-
-    # Drop the existing table rows if they exist
-    truncate_table(cursor, table_name)
 
     # Create a query dynamically based on the CSV columns and table name
     placeholders = ', '.join(['%s'] * len(columns))
