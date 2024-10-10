@@ -1,0 +1,275 @@
+﻿[
+	{
+		"club_id" : 1,
+		"language_id" : 3,
+		"name" : "シャーレ",
+		"lorebook_id" : 300044,
+		"extra_key_words" : "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id" : 2,
+		"language_id" : 3,
+		"name" : "対策委員会",
+		"lorebook_id" : 300045,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 3,
+		"language_id" : 3,
+		"name" : "便利屋68",
+		"lorebook_id" : 300046,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 4,
+		"language_id" : 3,
+		"name" : "シスターフッド",
+		"lorebook_id" : 300047,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 5,
+		"language_id" : 3,
+		"name" : "RABBIT小隊",
+		"lorebook_id" : 300048,
+		"extra_key_words" : "{\"long\": [\"クラブ\/メンバー\", \"小隊\/メンバー\", \"チーム\/メンバー\"], \"short\": [\"クラブ\", \"小隊\", \"チーム\"]}"
+	},
+	{
+		"club_id" : 6,
+		"language_id" : 3,
+		"name" : "風紀委員会",
+		"lorebook_id" : 300049,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 7,
+		"language_id" : 3,
+		"name" : "パンデモニウム・ソサエティー",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 8,
+		"language_id" : 3,
+		"name" : "美食研究会",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 9,
+		"language_id" : 3,
+		"name" : "給食部",
+		"lorebook_id" : 300050,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 10,
+		"language_id" : 3,
+		"name" : "温泉開発部",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 11,
+		"language_id" : 3,
+		"name" : "ティーパーティー",
+		"lorebook_id" : 300051,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 12,
+		"language_id" : 3,
+		"name" : "正義実現委員会",
+		"lorebook_id" : 300052,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 13,
+		"language_id" : 3,
+		"name" : "救護騎士団",
+		"lorebook_id" : 300148,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 14,
+		"language_id" : 3,
+		"name" : "図書委員会",
+		"lorebook_id" : 300149,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 15,
+		"language_id" : 3,
+		"name" : "放課後スイーツ部",
+		"lorebook_id" : 300127,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 16,
+		"language_id" : 3,
+		"name" : "トリニティ自警団",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 17,
+		"language_id" : 3,
+		"name" : "補習授業部",
+		"lorebook_id" : 300053,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 18,
+		"language_id" : 3,
+		"name" : "セミナー",
+		"lorebook_id" : 300054,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 19,
+		"language_id" : 3,
+		"name" : "ヴェリタス",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 20,
+		"language_id" : 3,
+		"name" : "Cleaning&Clearing",
+		"lorebook_id" : 300125,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 21,
+		"language_id" : 3,
+		"name" : "特異現象捜査部",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 22,
+		"language_id" : 3,
+		"name" : "エンジニア部",
+		"lorebook_id" : 300103,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 23,
+		"language_id" : 3,
+		"name" : "トレーニング部",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 24,
+		"language_id" : 3,
+		"name" : "ゲーム開発部",
+		"lorebook_id" : 300055,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 25,
+		"language_id" : 3,
+		"name" : "玄龍門",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 26,
+		"language_id" : 3,
+		"name" : "玄武商会",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 27,
+		"language_id" : 3,
+		"name" : "梅花園",
+		"lorebook_id" : 300123,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 28,
+		"language_id" : 3,
+		"name" : "レッドウィンター事務局",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 29,
+		"language_id" : 3,
+		"name" : "工務部",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 30,
+		"language_id" : 3,
+		"name" : "227号特別クラス",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 31,
+		"language_id" : 3,
+		"name" : "FOX小隊",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 32,
+		"language_id" : 3,
+		"name" : "アリウス分校",
+		"lorebook_id" : 300056,
+		"extra_key_words" : "{\"long\": [\"クラブ\/メンバー\", \"小隊\/メンバー\", \"チーム\/メンバー\"]}"
+	},
+	{
+		"club_id" : 33,
+		"language_id" : 3,
+		"name" : "生活安全局",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 34,
+		"language_id" : 3,
+		"name" : "公安局",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 35,
+		"language_id" : 3,
+		"name" : "陰陽部",
+		"lorebook_id" : 300104,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 36,
+		"language_id" : 3,
+		"name" : "お祭り運営委員会",
+		"lorebook_id" : 300150,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 37,
+		"language_id" : 3,
+		"name" : "修行部",
+		"lorebook_id" : null,
+		"extra_key_words" : null
+	},
+	{
+		"club_id" : 38,
+		"language_id" : 3,
+		"name" : "忍術研究部",
+		"lorebook_id" : 300057,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id" : 39,
+		"language_id" : 3,
+		"name" : "中央指令室",
+		"lorebook_id" : 300131,
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
+	}
+]

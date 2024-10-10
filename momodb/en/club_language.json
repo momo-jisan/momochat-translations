@@ -1,0 +1,275 @@
+﻿[
+	{
+		"club_id": 1,
+		"language_id": 1,
+		"name": "SCHALE",
+		"lorebook_id": 44,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 2,
+		"language_id": 1,
+		"name": "Foreclosure Task Force",
+		"lorebook_id": 45,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 3,
+		"language_id": 1,
+		"name": "Problem Solver 68",
+		"lorebook_id": 46,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 4,
+		"language_id": 1,
+		"name": "Sisterhood",
+		"lorebook_id": 47,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 5,
+		"language_id": 1,
+		"name": "RABBIT Squad",
+		"lorebook_id": 48,
+		"extra_key_words": "{\"long\": [\"your club\/member\", \"your squad\/member\", \"your team\/member\"], \"short\": [\"your club\", \"your squad\", \"your team\"]}"
+	},
+	{
+		"club_id": 6,
+		"language_id": 1,
+		"name": "Prefect Team",
+		"lorebook_id": 49,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 7,
+		"language_id": 1,
+		"name": "Pandemonium Society",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 8,
+		"language_id": 1,
+		"name": "Gourmet Research Society",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 9,
+		"language_id": 1,
+		"name": "School Lunch Club",
+		"lorebook_id": 50,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 10,
+		"language_id": 1,
+		"name": "Hot Spring Department",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 11,
+		"language_id": 1,
+		"name": "Tea Party",
+		"lorebook_id": 51,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 12,
+		"language_id": 1,
+		"name": "Justice Task Force",
+		"lorebook_id": 52,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 13,
+		"language_id": 1,
+		"name": "Remedial Knights",
+		"lorebook_id": 148,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 14,
+		"language_id": 1,
+		"name": "Library Committee",
+		"lorebook_id": 149,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 15,
+		"language_id": 1,
+		"name": "After-School Sweets Club",
+		"lorebook_id": 127,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 16,
+		"language_id": 1,
+		"name": "Trinity's Vigilante Crew",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 17,
+		"language_id": 1,
+		"name": "Make-Up Work Club",
+		"lorebook_id": 53,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 18,
+		"language_id": 1,
+		"name": "Seminar",
+		"lorebook_id": 54,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 19,
+		"language_id": 1,
+		"name": "Veritas",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 20,
+		"language_id": 1,
+		"name": "Cleaning&Clearing",
+		"lorebook_id": 125,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 21,
+		"language_id": 1,
+		"name": "Super Phenomenon Task Force",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 22,
+		"language_id": 1,
+		"name": "Engineering Club",
+		"lorebook_id": 103,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 23,
+		"language_id": 1,
+		"name": "Athletics Training Club",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 24,
+		"language_id": 1,
+		"name": "Game Development Department",
+		"lorebook_id": 55,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 25,
+		"language_id": 1,
+		"name": "Genryumon",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 26,
+		"language_id": 1,
+		"name": "Black Tortoise Promenade",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 27,
+		"language_id": 1,
+		"name": "Plum Blossom Garden",
+		"lorebook_id": 123,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 28,
+		"language_id": 1,
+		"name": "Red Winter Office",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 29,
+		"language_id": 1,
+		"name": "Labor Party",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 30,
+		"language_id": 1,
+		"name": "Spec Ops No. 227",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 31,
+		"language_id": 1,
+		"name": "FOX Squad",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 32,
+		"language_id": 1,
+		"name": "Arius Squad",
+		"lorebook_id": 56,
+		"extra_key_words": "{\"long\": [\"your club\", \"your squad\", \"your team\"]}"
+	},
+	{
+		"club_id": 33,
+		"language_id": 1,
+		"name": "Public Safety Bureau",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 34,
+		"language_id": 1,
+		"name": "Public Peace Bureau",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 35,
+		"language_id": 1,
+		"name": "Yin-Yang Club",
+		"lorebook_id": 104,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 36,
+		"language_id": 1,
+		"name": "Festival Operations Department",
+		"lorebook_id": 150,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 37,
+		"language_id": 1,
+		"name": "Inner Discipline Club",
+		"lorebook_id": null,
+		"extra_key_words": null
+	},
+	{
+		"club_id": 38,
+		"language_id": 1,
+		"name": "Ninjutsu Research Club",
+		"lorebook_id": 57,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 39,
+		"language_id": 1,
+		"name": "Central Control Center",
+		"lorebook_id": 131,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
+	}
+]

@@ -1,0 +1,93 @@
+﻿[
+	{
+		"academy_id": 1,
+		"language_id": 1,
+		"name": "General Student Council",
+		"lorebook_id": 31,
+		"extra_key_words": "{\"long\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 2,
+		"language_id": 1,
+		"name": "Abydos High School",
+		"lorebook_id": 32,
+		"extra_key_words": "{\"long\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 3,
+		"language_id": 1,
+		"name": "Gehenna Academy",
+		"lorebook_id": 33,
+		"extra_key_words": "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 4,
+		"language_id": 1,
+		"name": "Trinity General School",
+		"lorebook_id": 34,
+		"extra_key_words": "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 5,
+		"language_id": 1,
+		"name": "Millennium Science School",
+		"lorebook_id": 35,
+		"extra_key_words": "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 6,
+		"language_id": 1,
+		"name": "Shanhaijing Secondary School ",
+		"lorebook_id": 36,
+		"extra_key_words": "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 7,
+		"language_id": 1,
+		"name": "Red Winter Federal Academy",
+		"lorebook_id": 37,
+		"extra_key_words": "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 8,
+		"language_id": 1,
+		"name": "SRT Special Academy",
+		"lorebook_id": 38,
+		"extra_key_words": "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 9,
+		"language_id": 1,
+		"name": "Arius Satellite School",
+		"lorebook_id": 39,
+		"extra_key_words": "{\"long\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 10,
+		"language_id": 1,
+		"name": "Valkyrie Police School",
+		"lorebook_id": 40,
+		"extra_key_words": "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 11,
+		"language_id": 1,
+		"name": "Hyakkiyako Alliance Academy",
+		"lorebook_id": 41,
+		"extra_key_words": "{\"long\": [\"your academy\/club\", \"your academy\/history\", \"your academy\/legend\"], \"short\": [\"your academy\", \"your school\"]}"
+	},
+	{
+		"academy_id": 12,
+		"language_id": 1,
+		"name": "Highlander Railway Academy",
+		"lorebook_id": 130,
+		"extra_key_words": "{\"long\": [\"your academy\"]}"
+	},
+	{
+		"academy_id": 13,
+		"language_id": 1,
+		"name": "Gematria",
+		"lorebook_id": 135,
+		"extra_key_words": "{\"long\": [\"your organization\"]}"
+	}
+]
