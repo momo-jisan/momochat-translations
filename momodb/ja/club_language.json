@@ -4,7 +4,7 @@
 		"language_id" : 3,
 		"name" : "シャーレ",
 		"lorebook_id" : 300044,
-		"extra_key_words" : "{\"long\": [\"your club\"]}"
+		"extra_key_words" : "{\"long\": [\"クラブ\"]}"
 	},
 	{
 		"club_id" : 2,
