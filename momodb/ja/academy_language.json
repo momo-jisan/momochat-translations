@@ -1,93 +1,93 @@
 ﻿[
 	{
-		"academy_id" : 1,
-		"language_id" : 3,
-		"name" : "連邦生徒会",
-		"lorebook_id" : 300031,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 1,
+		"language_id": 3,
+		"name": "連邦生徒会",
+		"lorebook_id": 300031,
+		"extra_key_words": "{\"long\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 2,
-		"language_id" : 3,
-		"name" : "アビドス高等学校",
-		"lorebook_id" : 300032,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 2,
+		"language_id": 3,
+		"name": "アビドス高等学校",
+		"lorebook_id": 300032,
+		"extra_key_words": "{\"long\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 3,
-		"language_id" : 3,
-		"name" : "ゲヘナ学園",
-		"lorebook_id" : 300033,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 3,
+		"language_id": 3,
+		"name": "ゲヘナ学園",
+		"lorebook_id": 300033,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 4,
-		"language_id" : 3,
-		"name" : "トリニティ総合学園",
-		"lorebook_id" : 300034,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 4,
+		"language_id": 3,
+		"name": "トリニティ総合学園",
+		"lorebook_id": 300034,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 5,
-		"language_id" : 3,
-		"name" : "ミレニアムサイエンススクール",
-		"lorebook_id" : 300035,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 5,
+		"language_id": 3,
+		"name": "ミレニアムサイエンススクール",
+		"lorebook_id": 300035,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 6,
-		"language_id" : 3,
-		"name" : "山海経",
-		"lorebook_id" : 300036,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 6,
+		"language_id": 3,
+		"name": "山海経",
+		"lorebook_id": 300036,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 7,
-		"language_id" : 3,
-		"name" : "レッドウィンター連邦学園",
-		"lorebook_id" : 300037,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 7,
+		"language_id": 3,
+		"name": "レッドウィンター連邦学園",
+		"lorebook_id": 300037,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 8,
-		"language_id" : 3,
-		"name" : "SRT特殊学園",
-		"lorebook_id" : 300038,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 8,
+		"language_id": 3,
+		"name": "SRT特殊学園",
+		"lorebook_id": 300038,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 9,
-		"language_id" : 3,
-		"name" : "アリウス分校",
-		"lorebook_id" : 300039,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 9,
+		"language_id": 3,
+		"name": "アリウス分校",
+		"lorebook_id": 300039,
+		"extra_key_words": "{\"long\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 10,
-		"language_id" : 3,
-		"name" : "ヴァルキューレ警察学校",
-		"lorebook_id" : 300040,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 10,
+		"language_id": 3,
+		"name": "ヴァルキューレ警察学校",
+		"lorebook_id": 300040,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 11,
-		"language_id" : 3,
-		"name" : "百鬼夜行連合学院",
-		"lorebook_id" : 300041,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 11,
+		"language_id": 3,
+		"name": "百鬼夜行連合学院",
+		"lorebook_id": 300041,
+		"extra_key_words": "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 12,
-		"language_id" : 3,
-		"name" : "ハイランダー鉄道学園",
-		"lorebook_id" : 300130,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 12,
+		"language_id": 3,
+		"name": "ハイランダー鉄道学園",
+		"lorebook_id": 300130,
+		"extra_key_words": "{\"long\": [\"アカデミー\", \"学校\"]}"
 	},
 	{
-		"academy_id" : 13,
-		"language_id" : 3,
-		"name" : "ゲマトリア",
-		"lorebook_id" : 300135,
-		"extra_key_words" : "{\"long\": [\"所属\"]}"
+		"academy_id": 13,
+		"language_id": 3,
+		"name": "ゲマトリア",
+		"lorebook_id": 300135,
+		"extra_key_words": "{\"long\": [\"所属\"]}"
 	}
 ]

@@ -1,275 +1,93 @@
 ﻿[
 	{
-		"academy_id" : 1,
-		"language_id" : 1,
-		"name" : "General Student Council",
-		"lorebook_id" : 31,
-		"extra_key_words" : "{\"long\": [\"your academy\", \"your school\"]}"
+		"academy_id": 1,
+		"language_id": 5,
+		"name": "联邦学生会",
+		"lorebook_id": 500031,
+		"extra_key_words": "{\"long\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 1,
-		"language_id" : 3,
-		"name" : "連邦生徒会",
-		"lorebook_id" : 300031,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 2,
+		"language_id": 5,
+		"name": "阿拜多斯高中",
+		"lorebook_id": 500032,
+		"extra_key_words": "{\"long\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 1,
-		"language_id" : 5,
-		"name" : "联邦学生会",
-		"lorebook_id" : 500031,
-		"extra_key_words" : "{\"long\": [\"你的学园\", \"你的学校\"]}"
+		"academy_id": 3,
+		"language_id": 5,
+		"name": "格黑娜学园",
+		"lorebook_id": 500033,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 2,
-		"language_id" : 1,
-		"name" : "Abydos High School",
-		"lorebook_id" : 32,
-		"extra_key_words" : "{\"long\": [\"your academy\", \"your school\"]}"
+		"academy_id": 4,
+		"language_id": 5,
+		"name": "三一综合学园",
+		"lorebook_id": 500034,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 2,
-		"language_id" : 3,
-		"name" : "アビドス高等学校",
-		"lorebook_id" : 300032,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 5,
+		"language_id": 5,
+		"name": "千年科学学园",
+		"lorebook_id": 500035,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 2,
-		"language_id" : 5,
-		"name" : "阿拜多斯高中",
-		"lorebook_id" : 500032,
-		"extra_key_words" : "{\"long\": [\"你的学园\", \"你的学校\"]}"
+		"academy_id": 6,
+		"language_id": 5,
+		"name": "山海经高级中学",
+		"lorebook_id": 500036,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 3,
-		"language_id" : 1,
-		"name" : "Gehenna Academy",
-		"lorebook_id" : 33,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+		"academy_id": 7,
+		"language_id": 5,
+		"name": "红冬联邦学园",
+		"lorebook_id": 500037,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 3,
-		"language_id" : 3,
-		"name" : "ゲヘナ学園",
-		"lorebook_id" : 300033,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 8,
+		"language_id": 5,
+		"name": "SRT特殊学园",
+		"lorebook_id": 500038,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 3,
-		"language_id" : 5,
-		"name" : "格黑娜学园",
-		"lorebook_id" : 500033,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
+		"academy_id": 9,
+		"language_id": 5,
+		"name": "阿里乌斯分校",
+		"lorebook_id": 500039,
+		"extra_key_words": "{\"long\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 4,
-		"language_id" : 1,
-		"name" : "Trinity General School",
-		"lorebook_id" : 34,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
+		"academy_id": 10,
+		"language_id": 5,
+		"name": "瓦尔基里警察学园",
+		"lorebook_id": 500040,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 4,
-		"language_id" : 3,
-		"name" : "トリニティ総合学園",
-		"lorebook_id" : 300034,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
+		"academy_id": 11,
+		"language_id": 5,
+		"name": "百鬼夜行联合学园",
+		"lorebook_id": 500041,
+		"extra_key_words": "{\"long\": [\"你的学园\/社团\", \"你的学园\/历史\", \"你的学园\/传说\"], \"short\": [\"你的学园\", \"你的学校\"]}"
 	},
 	{
-		"academy_id" : 4,
-		"language_id" : 5,
-		"name" : "三一综合学园",
-		"lorebook_id" : 500034,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
+		"academy_id": 12,
+		"language_id": 5,
+		"name": "海兰德铁道学园",
+		"lorebook_id": 500130,
+		"extra_key_words": "{\"long\": [\"你的学园\"]}"
 	},
 	{
-		"academy_id" : 5,
-		"language_id" : 1,
-		"name" : "Millennium Science School",
-		"lorebook_id" : 35,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
-	},
-	{
-		"academy_id" : 5,
-		"language_id" : 3,
-		"name" : "ミレニアムサイエンススクール",
-		"lorebook_id" : 300035,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 5,
-		"language_id" : 5,
-		"name" : "千年科学学园",
-		"lorebook_id" : 500035,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
-	},
-	{
-		"academy_id" : 6,
-		"language_id" : 1,
-		"name" : "Shanhaijing Secondary School ",
-		"lorebook_id" : 36,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
-	},
-	{
-		"academy_id" : 6,
-		"language_id" : 3,
-		"name" : "山海経",
-		"lorebook_id" : 300036,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 6,
-		"language_id" : 5,
-		"name" : "山海经高级中学",
-		"lorebook_id" : 500036,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
-	},
-	{
-		"academy_id" : 7,
-		"language_id" : 1,
-		"name" : "Red Winter Federal Academy",
-		"lorebook_id" : 37,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
-	},
-	{
-		"academy_id" : 7,
-		"language_id" : 3,
-		"name" : "レッドウィンター連邦学園",
-		"lorebook_id" : 300037,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 7,
-		"language_id" : 5,
-		"name" : "红东联邦学园",
-		"lorebook_id" : 500037,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
-	},
-	{
-		"academy_id" : 8,
-		"language_id" : 1,
-		"name" : "SRT Special Academy",
-		"lorebook_id" : 38,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
-	},
-	{
-		"academy_id" : 8,
-		"language_id" : 3,
-		"name" : "SRT特殊学園",
-		"lorebook_id" : 300038,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 8,
-		"language_id" : 5,
-		"name" : "SRT特殊学园",
-		"lorebook_id" : 500038,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
-	},
-	{
-		"academy_id" : 9,
-		"language_id" : 1,
-		"name" : "Arius Satellite School",
-		"lorebook_id" : 39,
-		"extra_key_words" : "{\"long\": [\"your academy\", \"your school\"]}"
-	},
-	{
-		"academy_id" : 9,
-		"language_id" : 3,
-		"name" : "アリウス分校",
-		"lorebook_id" : 300039,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 9,
-		"language_id" : 5,
-		"name" : "阿里乌斯分校",
-		"lorebook_id" : 500039,
-		"extra_key_words" : "{\"long\": [\"你的学园\", \"你的学校\"]}"
-	},
-	{
-		"academy_id" : 10,
-		"language_id" : 1,
-		"name" : "Valkyrie Police School",
-		"lorebook_id" : 40,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\"], \"short\": [\"your academy\", \"your school\"]}"
-	},
-	{
-		"academy_id" : 10,
-		"language_id" : 3,
-		"name" : "ヴァルキューレ警察学校",
-		"lorebook_id" : 300040,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 10,
-		"language_id" : 5,
-		"name" : "女武神警察学园",
-		"lorebook_id" : 500040,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\"], \"short\": [\"你的学园\", \"你的学校\"]}"
-	},
-	{
-		"academy_id" : 11,
-		"language_id" : 1,
-		"name" : "Hyakkiyako Alliance Academy",
-		"lorebook_id" : 41,
-		"extra_key_words" : "{\"long\": [\"your academy\/club\", \"your academy\/history\", \"your academy\/legend\"], \"short\": [\"your academy\", \"your school\"]}"
-	},
-	{
-		"academy_id" : 11,
-		"language_id" : 3,
-		"name" : "百鬼夜行連合学院",
-		"lorebook_id" : 300041,
-		"extra_key_words" : "{\"long\": [\"学校\/クラブ\"], \"short\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 11,
-		"language_id" : 5,
-		"name" : "百鬼夜行联合学园",
-		"lorebook_id" : 500041,
-		"extra_key_words" : "{\"long\": [\"你的学园\/社团\", \"你的学园\/历史\", \"你的学园\/传说\"], \"short\": [\"你的学园\", \"你的学校\"]}"
-	},
-	{
-		"academy_id" : 12,
-		"language_id" : 1,
-		"name" : "Highlander Railway Academy",
-		"lorebook_id" : 130,
-		"extra_key_words" : "{\"long\": [\"your academy\"]}"
-	},
-	{
-		"academy_id" : 12,
-		"language_id" : 3,
-		"name" : "ハイランダー鉄道学園",
-		"lorebook_id" : 300130,
-		"extra_key_words" : "{\"long\": [\"アカデミー\", \"学校\"]}"
-	},
-	{
-		"academy_id" : 12,
-		"language_id" : 5,
-		"name" : "海兰德铁道学园",
-		"lorebook_id" : 500130,
-		"extra_key_words" : "{\"long\": [\"你的学园\"]}"
-	},
-	{
-		"academy_id" : 13,
-		"language_id" : 1,
-		"name" : "Gematria",
-		"lorebook_id" : 135,
-		"extra_key_words" : "{\"long\": [\"your organization\"]}"
-	},
-	{
-		"academy_id" : 13,
-		"language_id" : 3,
-		"name" : "ゲマトリア",
-		"lorebook_id" : 300135,
-		"extra_key_words" : "{\"long\": [\"所属\"]}"
-	},
-	{
-		"academy_id" : 13,
-		"language_id" : 5,
-		"name" : "盖玛特里亚",
-		"lorebook_id" : 500135,
-		"extra_key_words" : "{\"long\": [\"你的组织\"]}"
+		"academy_id": 13,
+		"language_id": 5,
+		"name": "盖玛特里亚",
+		"lorebook_id": 500135,
+		"extra_key_words": "{\"long\": [\"你的组织\"]}"
 	}
 ]
