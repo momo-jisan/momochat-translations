@@ -271,5 +271,12 @@
 		"name": "中央指令室",
 		"lorebook_id": 300131,
 		"extra_key_words": "{\"long\": [\"クラブ\"]}"
+	},
+	{
+		"club_id": 40,
+		"language_id": 3,
+		"name": "百花繚乱紛争調停委員会",
+		"lorebook_id": 300171,
+		"extra_key_words": "{\"long\": [\"クラブ\"]}"
 	}
 ]

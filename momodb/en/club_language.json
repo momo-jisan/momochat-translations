@@ -271,5 +271,12 @@
 		"name": "Central Control Center",
 		"lorebook_id": 131,
 		"extra_key_words": "{\"long\": [\"your club\"]}"
+	},
+	{
+		"club_id": 40,
+		"language_id": 1,
+		"name": "Hyakkaryouran Conflict Resolution Council",
+		"lorebook_id": 171,
+		"extra_key_words": "{\"long\": [\"your club\"]}"
 	}
 ]
