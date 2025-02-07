@@ -45,15 +45,15 @@
 		"club_id": 7,
 		"language_id": 3,
 		"name": "パンデモニウム・ソサエティー",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 300182,
+		"extra_key_words": "{\"long\": [\"クラブ\"]}"
 	},
 	{
 		"club_id": 8,
 		"language_id": 3,
 		"name": "美食研究会",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 300183,
+		"extra_key_words": "{\"long\": [\"クラブ\"]}"
 	},
 	{
 		"club_id": 9,
@@ -227,15 +227,15 @@
 		"club_id": 33,
 		"language_id": 3,
 		"name": "生活安全局",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 300184,
+		"extra_key_words": "{\"long\": [\"クラブ\"]}"
 	},
 	{
 		"club_id": 34,
 		"language_id": 3,
 		"name": "公安局",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 300185,
+		"extra_key_words": "{\"long\": [\"クラブ\"]}"
 	},
 	{
 		"club_id": 35,

@@ -45,15 +45,15 @@
 		"club_id": 7,
 		"language_id": 5,
 		"name": "万魔殿",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 500182,
+		"extra_key_words": "{\"long\": [\"你的社团\"]}"
 	},
 	{
 		"club_id": 8,
 		"language_id": 5,
 		"name": "美食研究会",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 500183,
+		"extra_key_words": "{\"long\": [\"你的社团\"]}"
 	},
 	{
 		"club_id": 9,
@@ -227,15 +227,15 @@
 		"club_id": 33,
 		"language_id": 5,
 		"name": "公共安全局",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 500184,
+		"extra_key_words": "{\"long\": [\"你的社团\"]}"
 	},
 	{
 		"club_id": 34,
 		"language_id": 5,
 		"name": "生活安全局",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 500185,
+		"extra_key_words": "{\"long\": [\"你的社团\"]}"
 	},
 	{
 		"club_id": 35,
