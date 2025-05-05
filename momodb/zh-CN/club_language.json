@@ -255,8 +255,8 @@
 		"club_id": 37,
 		"language_id": 5,
 		"name": "修行部",
-		"lorebook_id": null,
-		"extra_key_words": null
+		"lorebook_id": 500206,
+		"extra_key_words": "{\"long\": [\"你的社团\"]}"
 	},
 	{
 		"club_id": 38,
